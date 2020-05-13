@@ -1,0 +1,27 @@
+.left {
+	border: 1px solid red;
+	margin: 5px;
+}
+
+.right {
+	border: 1px solid red;
+	margin: 5px;
+}
+
+#third p {
+	display: none;
+}
+
+#fourth h1 {
+	display: none;
+
+}
+
+#second #fifth {
+	display: none;
+}
+
+#first {
+	display: none;
+}
+
